@@ -3,11 +3,11 @@
   <title>Kaguyaの小屋</title>
   
   <subtitle>嘤嘤嘤</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://cumuifreer.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://cumuifreer.github.io/"/>
   <updated>2021-10-25T12:49:47.884Z</updated>
-  <id>http://example.com/</id>
+  <id>https://cumuifreer.github.io/</id>
   
   <author>
     <name>Cumuifreer</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2021/10/25/hello-world/"/>
-    <id>http://example.com/2021/10/25/hello-world/</id>
+    <link href="https://cumuifreer.github.io/2021/10/25/hello-world/"/>
+    <id>https://cumuifreer.github.io/2021/10/25/hello-world/</id>
     <published>2021-10-25T12:49:47.884Z</published>
     <updated>2021-10-25T12:49:47.884Z</updated>
     
@@ -29,6 +29,26 @@
       
       
     <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>代码演示</title>
+    <link href="https://cumuifreer.github.io/2021/10/16/%E4%BB%A3%E7%A0%81/demo/"/>
+    <id>https://cumuifreer.github.io/2021/10/16/%E4%BB%A3%E7%A0%81/demo/</id>
+    <published>2021-10-16T15:03:00.000Z</published>
+    <updated>2021-10-26T15:05:31.893Z</updated>
+    
+    <content type="html"><![CDATA[<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">print</span>(<span class="string">&#x27;hello world&#x27;</span>)</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;figure class=&quot;highlight python&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span cl</summary>
       
     
     
